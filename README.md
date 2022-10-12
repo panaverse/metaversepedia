@@ -10,3 +10,5 @@ This is a repository to build a website which documents everything about Metaver
 
 [Hands on: Meta Quest Pro review](https://www.techradar.com/reviews/meta-quest-pro)
 
+[Building for the Metaverse on the Web](https://www.facebook.com/RealityLabs/videos/1274502836638155)
+
