@@ -1,6 +1,6 @@
 # Metaversepedia
 
-This is a repository to build a website which documents everything about Metaverse and Web 3.O which are the next interations of the internet. We will be using [Github pages](https://pages.github.com/) to build this website. 
+This is a repository to build a website which documents everything about Metaverse and Web 3.O which are the next interations of the internet. We will be using [Github pages](https://pages.github.com/) to build this website.
 
 ## Next-Gen XR Headsets
 
@@ -12,3 +12,6 @@ This is a repository to build a website which documents everything about Metaver
 
 [Building for the Metaverse on the Web](https://www.facebook.com/RealityLabs/videos/1274502836638155)
 
+## Dubai launches DEWAVerse platform on Metaverse
+
+[Dubai Electricity and Water Authority (DEWA) has launched its ‘DEWAVerse’ platform on the Metaverse and became the 1st local government organisation to launch its platform on the Metaverse](https://arynews.tv/dubai-launches-dewaverse-platform-on-metaverse/)
