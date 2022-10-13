@@ -42,3 +42,4 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 
 ## Resources
 
+Metaverse book by Matthew Ball [The Metaverse: And How It Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033)
