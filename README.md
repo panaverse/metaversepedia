@@ -12,10 +12,4 @@ This is a repository to build a website which documents everything about Metaver
 
 [Building for the Metaverse on the Web](https://www.facebook.com/RealityLabs/videos/1274502836638155)
 
-[The metaverse explained in 14 minutes by Matthew Ball](https://www.youtube.com/watch?v=4S-4mTvK4cI)
-
-[Matthew Ball's explanation of why video games are the future of the internet](https://www.youtube.com/watch?v=8iO_rLWdkEw&t=43s)
-
-[The Metaverse is a golden opportunity to fix the internet’s mistakes by Matthew Ball](https://www.youtube.com/watch?v=GcegAH8uYog)
-
 [Decentraland announces world’s first Metaverse ATM](https://europeansting.com/2022/08/23/decentraland-announces-worlds-first-metaverse-atm/)
