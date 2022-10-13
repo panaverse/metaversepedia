@@ -15,3 +15,5 @@ This is a repository to build a website which documents everything about Metaver
 [The metaverse explained in 14 minutes by Matthew Ball](https://www.youtube.com/watch?v=4S-4mTvK4cI)
 
 [Matthew Ball's explanation of why video games are the future of the internet](https://www.youtube.com/watch?v=8iO_rLWdkEw&t=43s)
+
+[The Metaverse is a golden opportunity to fix the internet’s mistakes by Matthew Ball](https://www.youtube.com/watch?v=GcegAH8uYog)
