@@ -29,6 +29,16 @@ Samsung, Adidas has already invested in metaverse and started to build experienc
 
 
 
+## Metaverse Careers
+Many new and different types of roles and careers will emerge by 2030 as the result of the transition towards the metaverse. Metaverse careers would stem from all the major domains (majority from the tech) and would also include distinct roles such as metaverse storyteller, tour guides, etc.
+
+[10+ Jobs in the Metaverse (That Will Exist in the Future)](https://novoresume.com/career-blog/jobs-in-the-metaverse)
+
+[11 Metaverse Jobs That Will Exist by 2030 | Metaverse and the World of Work](https://www.adeccogroup.com/future-of-work/latest-insights/11-metaverse-jobs-that-will-exist-by-2030/)
+
+[10 Metaverse Jobs That Will Exist by 2030](https://cult.honeypot.io/reads/10-metaverse-jobs-that-will-exist-by-2030/)
+
+
 
 ## Resources
 
