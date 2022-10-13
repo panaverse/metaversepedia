@@ -13,16 +13,22 @@ This is a repository to build a website which documents everything about Metaver
 [Building for the Metaverse on the Web](https://www.facebook.com/RealityLabs/videos/1274502836638155)
 
 
-## Dubai launches DEWAVerse platform on Metaverse
 
-[Dubai Electricity and Water Authority (DEWA) has launched its ‘DEWAVerse’ platform on the Metaverse and became the 1st local government organisation to launch its platform on the Metaverse](https://arynews.tv/dubai-launches-dewaverse-platform-on-metaverse/)
+
+
 
 ## Metaverse News
 
 [Walmart enters the metaverse with Roblox experiences](https://edition.cnn.com/2022/09/26/business/walmart-roblox-metaverse/index.html)
 
+[Dubai launches DEWAVerse platform on Metaverse](https://arynews.tv/dubai-launches-dewaverse-platform-on-metaverse/) 
+
 [Why brands are buying real estate in the metaverse](https://edition.cnn.com/videos/tech/2022/09/28/metaverse-real-estate-spc-intl.cnn)
 
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
+
+
+
+## Resources
 
