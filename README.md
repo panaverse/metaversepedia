@@ -12,6 +12,8 @@ This is a repository to build a website which documents everything about Metaver
 
 [Building for the Metaverse on the Web](https://www.facebook.com/RealityLabs/videos/1274502836638155)
 
+[Meet the Meta Quest Pro—our newest headset that enables mixed reality experiences, so you can feel more present and do more together](https://www.facebook.com/gaming/Meta/videos/806812773898654/)
+
 
 
 
