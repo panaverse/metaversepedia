@@ -43,3 +43,13 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 ## Resources
 
 Metaverse book by Matthew Ball [The Metaverse: And How It Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033)
+
+## Metaverse VS Web 3.0
+
+[The Important Difference Between Web3 And The Metaverse](https://www.forbes.com/sites/bernardmarr/2022/02/22/the-important-difference-between-web3-and-the-metaverse/?sh=32411f475af3)
+
+[Web 3.0 vs Metaverse – Key Differences](https://101blockchains.com/web-3-0-vs-metaverse/)
+
+[Web 3.0 vs. Metaverse: A detailed comparison](https://www.blockchain-council.org/metaverse/web-3-0-vs-metaverse/)
+
+[Web 3.0 vs. the metaverse: What’s the difference?](https://www.freethink.com/technology/web-3-vs-metaverse)
