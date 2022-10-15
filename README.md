@@ -22,6 +22,8 @@ This is a repository to build a website which documents everything about Metaver
 
 [Why brands are buying real estate in the metaverse](https://edition.cnn.com/videos/tech/2022/09/28/metaverse-real-estate-spc-intl.cnn)
 
+[Tune in to Meta Connect to hear from Mark Zuckerberg, expert developers and creators](https://fb.watch/g8NtPy9mpD/)
+
 [Meta Enables NFT Cross-Posting on Facebook and Instagram](https://www.blockchain-council.org/news/meta-enables-nft-cross-posting-on-facebook-and-instagram/)
 
 [Decentraland announces world’s first Metaverse ATM](https://europeansting.com/2022/08/23/decentraland-announces-worlds-first-metaverse-atm/)
