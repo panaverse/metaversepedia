@@ -27,6 +27,8 @@ This is a repository to build a website which documents everything about Metaver
 
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
+[Meta Enables NFT Cross-Posting on Facebook and Instagram](https://www.blockchain-council.org/news/meta-enables-nft-cross-posting-on-facebook-and-instagram/)
+
 
 
 ## Metaverse Careers
