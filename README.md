@@ -30,6 +30,8 @@ This is a repository to build a website which documents everything about Metaver
 
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
+[Microsoft is adding metaverse in Teams, allowing you to create your own avatar before appearing in a meeting](https://blogs.microsoft.com/blog/2022/10/11/microsoft-and-meta-partner-to-deliver-immersive-experiences-for-the-future-of-work-and-play/)
+
 ## Metaverse Careers
 
 Many new and different types of roles and careers will emerge by 2030 as the result of the transition towards the metaverse. Metaverse careers would stem from all the major domains (majority from the tech) and would also include distinct roles such as metaverse storyteller, tour guides, etc.
