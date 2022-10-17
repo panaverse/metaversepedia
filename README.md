@@ -40,6 +40,9 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 
 [10 Metaverse Jobs That Will Exist by 2030](https://cult.honeypot.io/reads/10-metaverse-jobs-that-will-exist-by-2030/)
 
+## Metaverse Applications
+1. MetaCommerce
+  * We will create a Marketplace which will be present in a metaverse and our avatar will be experiencing it and we can buy products using it.
 
 ## Resources
 
