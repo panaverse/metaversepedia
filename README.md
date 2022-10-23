@@ -43,6 +43,7 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 
 [10 Metaverse Jobs That Will Exist by 2030](https://cult.honeypot.io/reads/10-metaverse-jobs-that-will-exist-by-2030/)
 
+[6 BRILLIANT CREATIVE JOBS IN THE METAVERSE THAT ALREADY EXIST](https://www.talenthouse.com/articles/creative-metaverse-jobs)
 
 ## Resources
 
