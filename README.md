@@ -4,6 +4,12 @@ This is a repository to build a website which documents everything about Metaver
 
 ## Next-Gen XR Headsets
 
+[Project Cambria](https://www.gfinityesports.com/tech/project-cambria-oculus-release-date/)
+
+[PlayStation VR 2](https://www.techradar.com/news/playstation-vr-2-release-date-price-news-and-rumors)
+
+[Apple VR/AR headset](https://www.tomsguide.com/news/apple-vr-and-mixed-reality-headset-release-date-price-specs-and-leaks)
+
 ## Meta Quest Pro VR headset
 
 [Meta CEO Mark Zuckerberg debuts Meta Quest Pro VR headset that will cost $1,500](https://www.cnbc.com/2022/10/11/mark-zuckerberg-debuts-meta-quest-pro-vr-headset-that-will-cost-1500.html)
@@ -28,10 +34,11 @@ This is a repository to build a website which documents everything about Metaver
 
 [Decentraland announces world’s first Metaverse ATM](https://europeansting.com/2022/08/23/decentraland-announces-worlds-first-metaverse-atm/)
 
-[Microsoft is adding metaverse in Teams, allowing you to create your own avatar before appearing in a meeting](https://blogs.microsoft.com/blog/2022/10/11/microsoft-and-meta-partner-to-deliver-immersive-experiences-for-the-future-of-work-and-play/)
-
 [New Adobe software tools aim to aid 3D content creation for metaverse - Adobe 3D Capture](https://tribune.com.pk/story/2382381/new-adobe-software-tools-aim-to-aid-3d-content-creation-for-metaverse)
 
+[Microsoft is adding metaverse in Teams, allowing you to create your own avatar before appearing in a meeting](https://blogs.microsoft.com/blog/2022/10/11/microsoft-and-meta-partner-to-deliver-immersive-experiences-for-the-future-of-work-and-play/)
+
+[Microsoft Metaverse Startegy - Microsoft Hololens & Microsoft Mesh](https://metamandrill.com/microsoft-metaverse/#microsoft-games)
 
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
