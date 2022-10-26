@@ -40,6 +40,8 @@ This is a repository to build a website which documents everything about Metaver
 
 [Microsoft Metaverse Startegy - Microsoft Hololens & Microsoft Mesh](https://metamandrill.com/microsoft-metaverse/#microsoft-games)
 
+[What are the benefits of gigs in the metaverse? - The Party to Earn Model](https://cointelegraph.com/news/qa-what-are-the-benefits-of-gigs-in-the-metaverse-there-are-more-than-you-think)
+
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
 
