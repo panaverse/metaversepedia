@@ -58,7 +58,7 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 
 [6 BRILLIANT CREATIVE JOBS IN THE METAVERSE THAT ALREADY EXIST](https://www.talenthouse.com/articles/creative-metaverse-jobs)
 
-## Resources
+## Resources - Learn Metaverse
 
 [The metaverse explained in 14 minutes by Matthew Ball](https://www.youtube.com/watch?v=4S-4mTvK4cI)
 
@@ -69,3 +69,7 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 Metaverse book by Matthew Ball [The Metaverse: And How It Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033)
 
 [The Important Difference Between Web3 And The Metaverse](https://www.forbes.com/sites/bernardmarr/2022/02/22/the-important-difference-between-web3-and-the-metaverse/?sh=32411f475af3)
+
+## Resources - Learn Web3
+
+[Blockchain, Solidity, and Full Stack Web3 Development with JavaScript Course - FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)
