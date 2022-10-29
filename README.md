@@ -2,15 +2,14 @@
 
 This is a repository to build a website which documents everything about Metaverse and Web 3.O which are the next iterations of the internet. We will be using [Github pages](https://pages.github.com/) to build this website.
 
-## Next-Gen XR Headsets
+
+## Metaverse Technological Advancements
 
 [Project Cambria](https://www.gfinityesports.com/tech/project-cambria-oculus-release-date/)
 
 [PlayStation VR 2](https://www.techradar.com/news/playstation-vr-2-release-date-price-news-and-rumors)
 
 [Apple VR/AR headset](https://www.tomsguide.com/news/apple-vr-and-mixed-reality-headset-release-date-price-specs-and-leaks)
-
-## Meta Quest Pro VR headset
 
 [Meta CEO Mark Zuckerberg debuts Meta Quest Pro VR headset that will cost $1,500](https://www.cnbc.com/2022/10/11/mark-zuckerberg-debuts-meta-quest-pro-vr-headset-that-will-cost-1500.html)
 
@@ -19,6 +18,7 @@ This is a repository to build a website which documents everything about Metaver
 [Hands on: Meta Quest Pro review](https://www.techradar.com/reviews/meta-quest-pro)
 
 [Building for the Metaverse on the Web](https://www.facebook.com/RealityLabs/videos/1274502836638155)
+
 
 ## Metaverse News
 
@@ -42,9 +42,10 @@ This is a repository to build a website which documents everything about Metaver
 
 [What are the benefits of gigs in the metaverse? - The Party to Earn Model](https://cointelegraph.com/news/qa-what-are-the-benefits-of-gigs-in-the-metaverse-there-are-more-than-you-think)
 
+[Interpol launches its own Metaverse](https://www.interpol.int/News-and-Events/News/2022/INTERPOL-launches-first-global-police-Metaverse)
+
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
-[Interpol launches its own Metaverse](https://www.interpol.int/News-and-Events/News/2022/INTERPOL-launches-first-global-police-Metaverse)
 
 ## Metaverse Careers
 
@@ -58,7 +59,8 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 
 [6 BRILLIANT CREATIVE JOBS IN THE METAVERSE THAT ALREADY EXIST](https://www.talenthouse.com/articles/creative-metaverse-jobs)
 
-## Resources
+
+## Resources - Learn Metaverse
 
 [The metaverse explained in 14 minutes by Matthew Ball](https://www.youtube.com/watch?v=4S-4mTvK4cI)
 
@@ -69,3 +71,8 @@ Many new and different types of roles and careers will emerge by 2030 as the res
 Metaverse book by Matthew Ball [The Metaverse: And How It Will Revolutionize Everything](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033)
 
 [The Important Difference Between Web3 And The Metaverse](https://www.forbes.com/sites/bernardmarr/2022/02/22/the-important-difference-between-web3-and-the-metaverse/?sh=32411f475af3)
+
+
+## Resources - Learn Web3
+
+[Blockchain, Solidity, and Full Stack Web3 Development with JavaScript Course - FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)
