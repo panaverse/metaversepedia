@@ -76,3 +76,5 @@ Metaverse book by Matthew Ball [The Metaverse: And How It Will Revolutionize Eve
 ## Resources - Learn Web3
 
 [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript Course - FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org)
+
+[JAMstack Course - FreeCodeCamp](https://www.youtube.com/watch?v=A_l0qrPUJds&ab_channel=freeCodeCamp.org)
