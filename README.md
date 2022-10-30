@@ -38,9 +38,7 @@ This is a repository to build a website which documents everything about Metaver
 
 [Microsoft is adding metaverse in Teams, allowing you to create your own avatar before appearing in a meeting](https://blogs.microsoft.com/blog/2022/10/11/microsoft-and-meta-partner-to-deliver-immersive-experiences-for-the-future-of-work-and-play/)
 
-[Microsoft Metaverse Startegy - Microsoft Hololens & Microsoft Mesh](https://metamandrill.com/microsoft-metaverse/#microsoft-games)
-
-[What are the benefits of gigs in the metaverse? - The Party to Earn Model](https://cointelegraph.com/news/qa-what-are-the-benefits-of-gigs-in-the-metaverse-there-are-more-than-you-think)
+[Japan to Invest in Metaverse and NFT Expansion](https://www.coindesk.com/web3/2022/10/04/japan-to-invest-in-metaverse-and-nft-expansion/)
 
 [Interpol launches its own Metaverse](https://www.interpol.int/News-and-Events/News/2022/INTERPOL-launches-first-global-police-Metaverse)
 
