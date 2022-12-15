@@ -77,10 +77,10 @@ Metaverse book by Matthew Ball [The Metaverse: And How It Will Revolutionize Eve
 
 [JAMstack Course - FreeCodeCamp](https://www.youtube.com/watch?v=A_l0qrPUJds&ab_channel=freeCodeCamp.org)
 
-[NEXT.JS 13 With TypeScript - Complete Tutorial with Examples](https://youtu.be/6aP9nyTcd44)
+[Next.js React Framework Course - FreeCodeCamp](https://youtu.be/KjY94sAKLlw)
+
+[NEXT.JS 13 With TypeScript - Complete Tutorial with Examples - Sonny Sangha](https://youtu.be/6aP9nyTcd44)
 
 ## Resources - Learn Solidity
 
-[Learn Solidity: The COMPLETE Beginner’s Guide (Latest Version 0.8)](https://youtu.be/EhPeHeoKF88)
-
-[Learn Solidity in 20 Minutes!](https://youtu.be/RQzuQb0dfBM)
+[Learn Solidity: The COMPLETE Beginner’s Guide (Latest Version 0.8) - DApp University](https://youtu.be/EhPeHeoKF88)
