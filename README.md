@@ -42,6 +42,8 @@ This is a repository to build a website which documents everything about Metaver
 
 [Interpol launches its own Metaverse](https://www.interpol.int/News-and-Events/News/2022/INTERPOL-launches-first-global-police-Metaverse)
 
+[Allied Bank Limited (Pakistan) launches Pakistan's first virtual branch in the Metaverse](https://twitter.com/ABLpk/status/1602984920766468096)
+
 Samsung, Adidas has already invested in metaverse and started to build experiences for the 2 billion people who would be using metaverse daily by 2026. [Sam Huber](https://www.linkedin.com/in/samhuber/), CEO of [LandVault](https://landvault.io/) a company that builds and rent out properties in the metaverse says rented properties in the metaverse pay upto $60,000 a month. One property in Decentraland (a metaverse platform) sold for 2.4 Million Dollars.
 
 
